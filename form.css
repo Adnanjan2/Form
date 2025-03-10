@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+    color: blue;
+    border: 1px solid black;
+    
+}
+.page{
+    border-radius: 10px;
+    border-color: brown;
+    background-color: aqua;
+}
+h2{
+    color: blue;
+}
+
+img{
+    border: 1px solid blue;
+    border-radius: 50%;
+}
+a{  
+    width: 50px;
+}
